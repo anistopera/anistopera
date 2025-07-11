@@ -1,5 +1,6 @@
 Holaassss 
-- Mi nombre es Nicole (Nico) 💜💜💜💜💜
+- Mi nombre es Nicole (Nico) 💜💜💜💜💜<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ebf42c55-e584-46fb-bcf6-2032b7030860" />
+
 
 ###  Sobre mí  
 - Estudiante de **Ingeniería de Sistemas** 💻📡  
