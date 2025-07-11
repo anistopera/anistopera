@@ -1,5 +1,5 @@
 Holaassss 
-- Mi nombre es Nicole (Nico) 💜💜💜💜💜<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ebf42c55-e584-46fb-bcf6-2032b7030860" />
+- Mi nombre es Nicole (Nico) 💜💜💜💜💜(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fview%2Fpeach-goma-peach-and-goma-peach-cat-work-working-gif-26864956&psig=AOvVaw2Bo-dvFtFcdTnqFbs7qvps&ust=1752349625615000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjg6pnJtY4DFQAAAAAdAAAAABA3)
 
 
 ###  Sobre mí  
