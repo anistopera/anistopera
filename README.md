@@ -14,5 +14,5 @@ Holaassss
 <img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/16e3a46a-0d90-4d42-9c88-c8ae923e68d2" />
 
 ---  
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZmd2ZyNDIwbmtzbnN4aTZ5bHM3dmpiNW9pMmNhNjB4bDNsNmhhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" align="right"/>
 ✨ *¡Gracias por visitar mi perfil!* ✨  
