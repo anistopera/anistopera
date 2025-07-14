@@ -1,21 +1,20 @@
-Holaassss 
-- Mi nombre es Nicole (Nico) 💜💜💜💜💜<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cec25b1a-1174-4621-af34-872004682607" />
+#Hola, Mi nombre es Nicole 💜
 
-
-
-###  Sobre mí  
-- Estudiante de **Ingeniería de Sistemas** 💻📡  
-
-### Frase Favorita  
-> *"Los científicos de hoy piensan profundamente en lugar de claramente. Uno debe estar cuerdo para pensar con claridad, pero uno puede pensar profundamente y estar completamente loco."*  
-> **— Nikola Tesla** ⚡  
-
-###  Símbolo de lo imposible 
-<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/16e3a46a-0d90-4d42-9c88-c8ae923e68d2" />
-
----  
 <img alt="Night Coding" src="peach-goma-peach-and-goma.gif" align="right"/>
 
-✨ *¡Gracias por visitar mi perfil!* ✨  
-[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZmd2ZyNDIwbmtzbnN4aTZ5bHM3dmpiNW9pMmNhNjB4bDNsNmhhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif](https://imgur.com/a/9QyCLN3)
+
+- Estudiante de **Ingeniería de Sistemas** 💻📡  
+- Me gusta la música, en casi todas sus formas.🎶🎙
+- Soy curiosa, dispuesta a seguir aprendiendo y siempre busco mejorar.🌟🎲
+- Me persvo como una persona objetiva y soñadora♟🌞
+### Frases Motivadoras  
+> *"Los científicos de hoy piensan profundamente en lugar de claramente. Uno debe estar cuerdo para pensar con claridad, pero uno puede pensar profundamente y estar completamente loco."*  
+> **— Nikola Tesla** ⚡
+*********
+> *"La felicidad es una sensación interior tranquila y plena. la curiosidad es la chispa que te impulsa a explorar , experimentar y conocer. "*  
+> **— Nicole Flores** ⚡
+<img width="1200" height="175" alt="image" src="https://github.com/user-attachments/assets/f2c5a88e-d58d-4ad6-b834-5eeb7d7b2ec1" />
+### Lengujes
+[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/57ef7cf4-7cac-47ae-af6e-d8307630d5ee" />](https://www.java.com/es/)
+
 
