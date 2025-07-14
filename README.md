@@ -1,4 +1,4 @@
-#Hola, Mi nombre es Nicole 💜
+# Hola, Mi nombre es Nicole 💜
 
 <img alt="Night Coding" src="peach-goma-peach-and-goma.gif" align="right"/>
 
@@ -15,6 +15,8 @@
 > **— Nicole Flores** ⚡
 <img width="1200" height="175" alt="image" src="https://github.com/user-attachments/assets/f2c5a88e-d58d-4ad6-b834-5eeb7d7b2ec1" />
 ### Lengujes
-[<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/57ef7cf4-7cac-47ae-af6e-d8307630d5ee" />](https://www.java.com/es/)
+
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff" />
 
 
