@@ -1,23 +1,25 @@
-# Hola, Mi nombre es Nicole 💜
+# Hi, my name is Nicole 💜
 
-<img alt="Night Coding" src="peach-goma-peach-and-goma.gif" align="right"/>
+<img alt="Night Coding" src="peach-goma-peach-and-goma.gif" align="right" width="200"/>
 
-
-- Estudiante de **Ingeniería de Sistemas** 💻📡  
-- Me gusta la música, en casi todas sus formas.🎶🎙
-- Soy curiosa, dispuesta a seguir aprendiendo y siempre busco mejorar.🌟🎲
-- Me persvo como una persona objetiva y soñadora♟🌞
-### Frases Motivadoras  
-> *"Los científicos de hoy piensan profundamente en lugar de claramente. Uno debe estar cuerdo para pensar con claridad, pero uno puede pensar profundamente y estar completamente loco."*  
-> **— Nikola Tesla** ⚡
-*********
-> *"La felicidad es una sensación interior tranquila y plena. la curiosidad es la chispa que te impulsa a explorar , experimentar y conocer. "*  
-> **— Nicole Flores** 🍇
-<img width="1200" height="175" alt="image" src="https://github.com/user-attachments/assets/f2c5a88e-d58d-4ad6-b834-5eeb7d7b2ec1" />
-
-### Lenguajes y plataformas
-
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff" /> <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+- **Systems Engineering** student 💻📡  
+- I love music in almost all its forms. 🎶🎙
+- I am curious, always willing to learn, and constantly seeking to improve. 🌟🎲
+- I consider myself both an objective person and a dreamer. ♟🌞
 
 
 
+
+### Tech Stack 🚀
+
+<!-- Lenguajes de Programación -->
+#### 💻 Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<!-- Bases de Datos -->
+#### 🗄️ Databases
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+<!-- Herramientas y SO -->
+#### 🛠️ Tools & OS
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" />
